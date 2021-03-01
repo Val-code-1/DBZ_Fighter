@@ -1,0 +1,34 @@
+#page {
+  background-image: url("https://i.pinimg.com/originals/fc/00/03/fc0003a447fef2c1c94fd3ebba42e756.png");
+  background-repeat: no-repeat;
+  background-size: 2000px 1800px;
+}
+#title {
+  text-align: center;
+}
+#titleimg {
+  align-items: center;
+  align-content: center;
+  margin-left: 40%;
+  margin-right: 40%;
+}
+.fighters {
+  margin: 20px 90px;
+  font-size: 20px;
+  font-weight: 900;
+  text-shadow: orangered 1px 1px;
+}
+
+#c1 {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#c2 {
+  display: flex;
+}
+/* #G_Character_Target {
+  background-color: blue;
+  color: white;
+} */
